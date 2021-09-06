@@ -1,2 +1,2 @@
-Hello! I'm Li ^^ 
-Nice to meet you!
+👋 Hello! I'm Li Nguyen. 
+❤️  Nice to meet you! ❤️  
