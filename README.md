@@ -1,4 +1,3 @@
 👋 Hello! I'm Li Nguyen. 
 ❤️  Nice to meet you! ❤️  
-![](tauvutru.jpg) 
-
+<img src="tauvutru.jpg" alt="I can fly" width="200"/>
